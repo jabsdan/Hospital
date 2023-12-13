@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcentro_salud=self.webpackChunkcentro_salud||[]).push([[551],{551:(e,s,u)=>{u.r(s),u.d(s,{default:()=>a});u(791),u(508);var n=u(184);function a(){return(0,n.jsx)("h1",{className:"sign-up",children:"LIKE & SUBSCRIBE"})}}}]);
+//# sourceMappingURL=551.e68913bb.chunk.js.map
